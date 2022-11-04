@@ -8,4 +8,4 @@ Carry out your digital projects with [SIKessEm](https://sikessem.com) regardless
 
 [💬 View community discussions](https://github.com/sikessem/community/discussions)
 
-<p><a href="https://twitter.com/intent/follow?screen_name=ske_sikessem"><img src="https://img.shields.io/twitter/follow/sikessem_tweets.svg?label=Follow%20@sikessem_tweets" alt="Follow @sikessem_tweets"/></a></p>
+<p><a href="https://twitter.com/intent/follow?screen_name=sikessem_tweets"><img src="https://img.shields.io/twitter/follow/sikessem_tweets.svg?label=Follow%20@sikessem_tweets" alt="Follow @sikessem_tweets"/></a></p>
