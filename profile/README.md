@@ -2,9 +2,9 @@
 
 ***
 
-# Dream no more!
+# Let's be open for a free world!
 
-Carry out your digital projects with [SIKessEm](https://sikessem.com) regardless of your budget.
+We make the world a better place by delivering innovative digital solutions that make life easier.
 
 [💬 View community discussions](https://github.com/sikessem/community/discussions)
 
