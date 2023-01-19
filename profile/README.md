@@ -1,4 +1,8 @@
-<div align="center"><a href="https://sikessem.com" title="SIKessEm"><img src="https://github.com/sikessem/.github/blob/HEAD/sikessem.svg" alt="SIKessEm logo" height="300"/></a></div>
+<div align="center">
+    <a href="https://sikessem.com/" title="Sikessem">
+        <img src="https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg" alt="Sikessem logo" height="256"/>
+    </a>
+</div>
 
 ***
 
