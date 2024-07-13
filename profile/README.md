@@ -12,4 +12,4 @@ We make the world a better place by delivering innovative digital solutions that
 
 [💬 View community discussions](https://github.com/sikessem/community/discussions)
 
-<p><a href="https://twitter.com/intent/follow?screen_name=sikessem_tweets"><img src="https://img.shields.io/twitter/follow/sikessem_tweets.svg?label=Follow%20@sikessem_tweets" alt="Follow @sikessem_tweets"/></a></p>
+<p><a href="https://x.com/intent/follow?screen_name=sikessem_news"><img src="https://img.shields.io/twitter/follow/sikessem_news.svg?label=Follow%20@Sikessem_news" alt="Follow @Sikessem_news"/></a></p>
