@@ -1,5 +1,5 @@
 <div align="center">
-    <a href="https://sikessem.com/" title="Sikessem">
+    <a href="https://sikessem.github.oi/" title="Sikessem">
         <img src="https://github.com/sikessem/art/blob/HEAD/images/sikessem.svg" alt="Sikessem logo" height="64"/>
     </a>
 
@@ -19,11 +19,11 @@ We 💙 [#opensource](https://opensource.org/) and are always looking for collab
 ### Follow Us 🔔
 Stay updated with our latest projects and initiatives:
 
-<p><a href="https://x.com/intent/follow?screen_name=SikessemEng"><img src="https://img.shields.io/twitter/follow/SikessemEng.svg?label=Follow%20@SikessemEng" alt="Follow @SikessemEng"/></a></p>
+<p><a href="https://x.com/intent/follow?screen_name=SikessemEng"><img src="https://img.shields.io/twitter/follow/SikessemOrg.svg?label=Follow%20@SikessemOrg" alt="Follow @SikessemOrg"/></a></p>
 
 ---
 
-Bring your ideas to life with [Cosnux](https://github.com/cosnux). 🌌✨
+[Browse our open-source projects ✨](https://sikessem.github.io/).
 
-**Join us on this exciting journey!** 🚀
+**Join us on this exciting journey! 🚀**
 </div>
