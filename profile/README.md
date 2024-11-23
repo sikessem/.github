@@ -1,6 +1,6 @@
 <div align="center">
     <a href="https://sikessel.github.io/" title="Sikessel">
-        <img src="https://github.com/sikessel/art/blob/HEAD/images/logo.svg" alt="Sikessem" height="64"/>
+        <img src="https://github.com/sikessel/art/blob/HEAD/images/logo.svg" alt="Sikessel" height="64"/>
     </a>
 
 # Empowering a World 🌍 of Freedom and Openness for Everyone
@@ -12,7 +12,7 @@ Our mission is to empower individuals and organizations by providing innovative 
 We believe in a world where technology is **accessible**, **adaptable**, and **beneficial for everyone**. Our open approach invites community participation, ensuring that our solutions evolve to meet diverse needs. 💡
 
 ## Get Involved 🤗
-We 💙 [#opensource](https://opensource.org/) and are always looking for collaborators, contributors, and feedback.
+We 🩵 [#opensource](https://opensource.org/) and are always looking for collaborators, contributors, and feedback.
 
 [💬 Join us in a discussion to build tools together that make a difference!](https://github.com/orgs/sikessel/discussions)
 
