@@ -19,7 +19,7 @@ We 🩵 [#opensource](https://opensource.org/) and are always looking for collab
 ### Follow Us 🔔
 Stay updated with our latest projects and initiatives:
 
-<p><a href="https://x.com/intent/follow?screen_name=Sikessel"><img src="https://img.shields.io/twitter/follow/Sikessel.svg?label=Follow%20@Sikessel" alt="Follow @Sikessel"/></a></p>
+<p><a href="https://x.com/intent/follow?screen_name=SikesselEng"><img src="https://img.shields.io/twitter/follow/SikesselEng.svg?label=Follow%20@SikesselEng" alt="Follow @SikesselEng"/></a></p>
 
 ---
 
