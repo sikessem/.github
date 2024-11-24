@@ -1,6 +1,6 @@
 <div align="center">
-    <a href="https://sikessel.github.io/" title="Sikessel">
-        <img src="https://github.com/sikessel/art/blob/HEAD/images/logo.svg" alt="Sikessel" height="64"/>
+    <a href="https://sikessel.com/" title="Sikessel">
+        <img src="https://github.com/sikessem/art/blob/HEAD/images/logo.svg" alt="Sikessel" height="64"/>
     </a>
 
 # Empowering a World 🌍 of Freedom and Openness for Everyone
